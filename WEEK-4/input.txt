@@ -1,0 +1,5 @@
+Hi, my name is Michael.
+Welcome to the exception handling tutorial
+I'll be showing you how to create a file,
+How to handle errors gracefully.
+Stay tuned!
