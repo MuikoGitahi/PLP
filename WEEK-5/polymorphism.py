@@ -1,4 +1,4 @@
-#Polymorphism 🦄:
+# Polymorphism 🦄:
 # Derived classes can behave differently for the same method inherited from a base class. 
 # With polymorphism, a method name can mean different things across multiple classes.
 
